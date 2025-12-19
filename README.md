@@ -20,6 +20,10 @@ End-to-end data analytics project analyzing customer shopping behavior to identi
 - Interactive Power BI dashboard
 - Report & presentation creation
 
+# 🧑‍💻 Visual Representation
+<img width="1256" height="686" alt="image" src="https://github.com/user-attachments/assets/47ca541f-0316-4bc1-bb99-ea50c79de481" />
+
+
 ## 📊 Analysis Highlights
 - Revenue by gender and age group
 - Subscriber vs non-subscriber behavior
