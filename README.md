@@ -30,7 +30,7 @@ End-to-end data analytics project analyzing customer shopping behavior to identi
 
 ## ▶️ How to Run
 ```bash
-git clone https://github.com/VihalKarhade/Customer-Behavior-Analysis.git
+https://github.com/VihalKarhade/Customer-Shopping-Behavior-Analysis.git
 pip install pandas numpy matplotlib sqlalchemy psycopg2
 ```
 - Run Python notebooks
